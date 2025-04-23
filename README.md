@@ -5,7 +5,7 @@ self-referential links and is not expected to receive future updates, as it was 
 
 Despite its simplicity, this project significantly helped me get comfortable with tools and techniques such as Flexbox, absolute positioning, 
 CSS animations, embedding content with iframes, and more during my starter days. I just deloped it today to test github free deploy.
-All the cpffee bookings will go to `abc@yopmail.com` as settings in web3forms.
+All the coffee bookings will go to `abc@yopmail.com` as settings in web3forms.
 
 ## Project Features
 - Semantic HTML5 structure  
