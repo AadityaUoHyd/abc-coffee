@@ -1,0 +1,28 @@
+.page {
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  height: auto;
+}
+
+.recipes,
+.gallery,
+.header {
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  box-sizing: border-box;
+}
+
+
+/* 📱 For mobile and small screens */
+@media screen and (max-width: 1100px) {
+  .page {
+    min-width: auto;
+    width: 100%;
+    padding: 0 20px; /* optional: to avoid content hugging edges */
+    box-sizing: border-box;
+  }
+}
+
